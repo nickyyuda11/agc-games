@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /hack.php
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /hack.php
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /hack.php
+User-agent: Googlebot
+Allow: /
+Disallow: /hack.php
+User-agent: Adsbot-Google
+Allow: /
+Disallow: /hack.php
+User-agent: Googlebot-Mobile
+Allow: /
+Disallow: /hack.php
+
+Sitemap: http://dddbbb.co/sitemap.xml
